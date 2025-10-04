@@ -36,7 +36,7 @@ Aplicacao desenvolvida com **FastAPI** para agendamento de Visitas Tecnicas. A i
 - **Backend:** FastAPI
 - **JSON:** Armazenamento dos dados
 - **Frontend:** HTML, CSS, Bootstrap
-- **Nuvem:** Microsoft Azure (deploy e hospedagem da aplicacao) 
+- **Nuvem:** AWS (deploy e hospedagem da aplicacao) 
 
 ## O projeto é uma PAS funcional, com lógica e interface construída.
 
